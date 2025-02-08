@@ -1,2 +1,0 @@
-# GIT-self
-GIT-self
